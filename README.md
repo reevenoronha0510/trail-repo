@@ -1,2 +1,3 @@
-# trail-repo
+# trial-repo
 Reeve Noronha
+My First Git Repository
